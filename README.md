@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @magorur
 - 👀 I’m interested in Python and C Programming Languages and Robotics, Microprocessors and PCB Design
 - 🌱 I’m currently an EE Engineering Student
-- 📫 How to reach me https://www.linkedin.com/in/mahmut-g-a62152199/
+- 📫 How to reach me < mahgor2211@gmail.com >
+- 📫 My LinkedIn Profile https://www.linkedin.com/in/mahmut-g-a62152199/
 
 ![gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif)
 
