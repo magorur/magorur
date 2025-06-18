@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magorur
-- 👀 I’m interested in Python, C, Robotics, Microprocessors and PCB Design
+- 👀 I’m interested in PCB Design and FPGAs.
 - 🌱 I’m an Electrical Electronics Engineer
 - 📫 How to reach me < mahhmut.gorur0@gmail.com >
 - 📫 My LinkedIn Profile https://www.linkedin.com/in/mahmutgorur/
